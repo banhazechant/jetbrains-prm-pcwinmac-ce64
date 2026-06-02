@@ -1,4 +1,4 @@
-# 
+# Inteligente JetBrains PyCharm scripts para Mac OS | Instantáneo JetBrains PyCharm scripts para PC Windows. Con mapeo de puertos y visualización de respuestas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
